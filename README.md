@@ -1,5 +1,5 @@
-# World Layoffs Exploratory Data Analysis
-This project takes a closer look at global layoff trends using real-world data. The dataset covers companies across different industries, countries, and funding stages, giving us a chance to dig into how layoffs have impacted the workforce over time. The dataset used in this project was imported from Kaggle: https://www.kaggle.com/datasets/happyude/world-layoffs
+# 🌍 World Layoffs Exploratory Data Analysis Project
+This project takes a closer look at global layoff trends using real-world data. The dataset covers companies across different industries, countries, and funding stages, giving us a chance to dig into how layoffs have impacted the workforce over time. The dataset used in this project was imported from Kaggle: https://www.kaggle.com/datasets/happyude/world-layoffs.
 
 As part of this analysis, I cleaned and prepared the data (handling duplicates, standardizing the data, and handling missing values) and then explored it with SQL to answer questions like: Which industries were hit the hardest? Which companies laid off the most employees? How do layoffs vary by country and over time?
 
@@ -10,6 +10,7 @@ The goal is both to practice solid data cleaning and EDA skills, and to uncover 
 2. 📊 **Advanced Querying using SQL for Exploratory Data Analysis** - I have mastered intermediate querying to get results for questions I have in mind. I also had experience creating highly advanced queries to return questions for very specific tasks.
 
 # 🔍 Insights Gathered
+Here are some questions answered along with the SQL code and its ouput.
 
 ## 1. 🌍 Countries with the most number of layoffs
 ```sql
